@@ -13,7 +13,7 @@
 ## Connect with me
 <p align="center">
   <a href="https://www.facebook.com/chung.utd.202">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/chungdev02/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
