@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Chung</h1>
-<h3 align="center">Backend Developer | Node.js | NestJS</h3>
 
----
+<p align="center">
+  🚀 Backend Developer | Node.js | NestJS | ExpressJS 
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;NestJS+%7C+Node.js+ExpressJS;Always+Learning+New+Things" />
+</p>
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/chung.utd.202"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
