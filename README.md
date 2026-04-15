@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chung</h1>
 
 <p align="center">
-  🚀 Backend Developer | Node.js | NestJS  
+  🚀 Backend Developer | Node.js   
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/chung.utd.202"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -56,14 +56,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chung1607&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chung1607/chung1607/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
