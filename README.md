@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;NestJS+%7C+Node.js+ExpressJS;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;NestJS+%7C+Node.js+%7C+ExpressJS;Always+Learning+New+Things" />
 </p>
 
 ## 🌐 Connect with me
@@ -67,13 +67,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chung1607&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chung1607&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chung1607&layout=compact&theme=tokyonight"/>
 </p>
