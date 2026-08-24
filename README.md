@@ -71,10 +71,3 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
----
-
-## GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chung1607&theme=tokyonight&hide_border=true"/>
-</p>
